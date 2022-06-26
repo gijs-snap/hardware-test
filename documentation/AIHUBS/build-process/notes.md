@@ -1,0 +1,1 @@
+Here are notes on the build process of the aihubs
